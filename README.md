@@ -1,4 +1,4 @@
-## Hey there! I'm George👋
+## Hey there! I'm George 👋
 ### 🤠 About Me
 Fullstack software developer based in Ljubljana, Slovenia 🇸🇮
 ### 🛠️ Tech Stack
