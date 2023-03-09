@@ -1,7 +1,7 @@
 ## Hey there! I'm George 👋
-### 🤠 About Me
+### 🤠 About me
 Fullstack software developer based in Ljubljana, Slovenia 🇸🇮
-### 🛠️ Tech Stack
+### 🛠️ Tech stack
 - 🌐 &nbsp;
   [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/gmgale/XRPL-Bridge)
   [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/gmgale/XRPL-Bridge)
@@ -36,7 +36,7 @@ Fullstack software developer based in Ljubljana, Slovenia 🇸🇮
 
 &nbsp;
 
-### 🪛 Favorite Tools
+### 🪛 Favorite tools
 
 
  &nbsp;
@@ -50,7 +50,8 @@ Fullstack software developer based in Ljubljana, Slovenia 🇸🇮
 &nbsp;
 
 ---
-## Contact me 
+### ✉️ Contact me 
+&nbsp;
 [![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-martyn-gale/)
 
 <!--
